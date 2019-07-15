@@ -389,3 +389,5 @@
 
 #### Awesome List
 * [Awesome Security List](https://github.com/sbilly/awesome-security)
+* [Movies for Hackers](https://github.com/k4m4/movies-for-hackers)
+* [Password List](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
