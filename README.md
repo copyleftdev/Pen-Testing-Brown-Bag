@@ -386,3 +386,6 @@
 * [Cookie Decrypter](https://github.com/bellma101/cookie-decrypter)
 * [SRI Check](https://github.com/bellma101/sri-check)
 * [tplmap](https://github.com/epinna/tplmap/blob/master/burp_extension/README.md)
+
+#### Awesome List
+* [Awesome Security List](https://github.com/sbilly/awesome-security)
